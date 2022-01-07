@@ -29,7 +29,7 @@ ___/--> / THANKS TO
        AUTHOR : 
                • MR.JEECK
        TEAM PROJECT :
-                     • MR.RISKY
-                     • FAKY X CODR
-                     • XENZI X GANZ
-                     • YUMASAA  ```
+                     • MR.RISKY :(
+                     • FAKY X CODR :(
+                     • XENZI X GANZ :(
+                     • YUMASAA  :(
