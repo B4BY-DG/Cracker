@@ -1,4 +1,4 @@
-## CLOME TO TOOLS ME 😁
+##       CLOME TO TOOLS ME 😁
 ```
 ____/--> INSTALLASI /+/+/+/
 termux-setup-storage  
