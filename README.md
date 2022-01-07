@@ -24,3 +24,12 @@ ___/--> / INFORMASI
  ```
        ADMIN TIDAK BERTANGGUNG JAWAB KSETIKA TOOLS INI DI SALAH GUNAKAN
              GUNAKAN DENGAN BIJAK /+/ JANGAN DI PERJUAL BELIKAN```
+___/--> / THANKS TO 
+ ```
+       AUTHOR : 
+               • MR.JEECK
+       TEAM PROJECT :
+                     • MR.RISKY
+                     • FAKY X CODR
+                     • XENZI X GANZ
+                     • YUMASAA  ```
