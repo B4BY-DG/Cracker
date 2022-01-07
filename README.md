@@ -27,7 +27,7 @@ ___/--> / INFORMASI
 ___/--> / THANKS TO 
  ```
        AUTHOR : 
-               • MR.JEECK
+               • MR.JEECK :(
        TEAM PROJECT :
                      • MR.RISKY :(
                      • FAKY X CODR :(
