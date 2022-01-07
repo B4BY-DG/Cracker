@@ -1,5 +1,6 @@
-### [++] How to Install [++]
+##
 ```
+____/--> INSTALLASI /+/+/+/
 termux-setup-storage  
    + Press Enter
       - Type Y Or Allow
@@ -17,7 +18,6 @@ pip install futures
 git clone https://github.com/mrjeeck/Cracker
 cd Cracker
 git pull
+python run.py
 ```
->
-**[++] Runink Scrypt [++]
    
