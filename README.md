@@ -14,11 +14,10 @@ pip install requests
 pip install mechanize
 pip install bs4
 pip install futures
-git clone https://github.com/Dumai-991/Cracker
+git clone https://github.com/mrjeeck/Cracker
 cd Cracker
 git pull
 ```
 >
 **[++] Runink Scrypt [++]
-   + cd Cracker
-   + python RUN.py
+   
