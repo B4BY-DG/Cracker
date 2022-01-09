@@ -5,25 +5,40 @@
 ![20220108_182516](https://user-images.githubusercontent.com/88564225/148643748-4f87723b-1b87-498f-b3c7-53daa8526921.jpg)
 # INSTALASI
 ```
-____/--> INSTALLASI /+/+/+/
-termux-setup-storage  
-   + Press Enter
-      - Type Y Or Allow
-termux-change-repo
-   + Select Game Repository
-      - Press OK
-   + Choose Mirror By Grimler
-      - Press OK
-pkg install python
-pkg install git
-pip install requests
-pip install mechanize
-pip install bs4
-pip install futures
-git clone https://github.com/mrjeeck/Cracker
-cd Cracker
-git pull
-python run.py
+TOOLS : CRACK FACEBOOK & INSTAGRAM
+  FITUR :
+              • TERDAPAT DUMP ID OLD
+              • TERDAPAT DUMP ID GROUP
+              • TERDAPAT DUMP ID MASAL MAX
+              • TERDAPAT FITUR CRACK PRO[ MENU [13 DAN 16]
+              • TERDAPAT FITUR INSTAGRAM
+              • CRACK AUTO CHEK OPSI
+              • TERDAPAT CHEKPOINT DETECTOR > CEK APLIKASI 
+              • TERDAPAT MENU CHEK JUMBLAH TEMAN 
+PRINTAH PENGINSTALAN : 
+                   pkg update && pkg upgrade 
+                   pkg install git
+                   pkg install python
+                   pkg install python2
+                   pip2 install ipaddress
+                   pip install ipaddress
+                   pip install mechanize
+                   pip2 install mechanize
+                   pip install requests
+                   pip2 install requests
+                   pip install tqdm
+                   pip2 install tqdm
+                   git clone https://github.com/mrjeeck/Cracker
+                   cd Cracker
+                   git pull
+                   python run.py
+AUTHOT : MR JEECK,  MR RISKY,  FAKY X CODE,  XENZI X GANZ,  YUMASAA
+      DONASI : 
+                      081392505882
+                      085891511849
+                     PLEASEE  JIKA ADA BUG DI TOOLS HARAP LAPOR SAYA DAN 
+            ADMIN TIDAK BERTANGGUNG JAWAB JIKA TOOL DI SALAH GUNAKAN ☺
+    SAYA HANYA PEMBUAT DAN ANDA PENGGUNA NOTE : GUNAKAN DENGAN BIJAK
 ```
 ___/--> / INFORMASI 
  ```
@@ -35,6 +50,6 @@ ___/--> / INFORMASI
                • MR.JEECK :(
        TEAM PROJECT :
                      • MR.RISKY :(
-                     • FAKY X CODR :(
+                     • FAKY X CODE :(
                      • XENZI X GANZ :(
                      • YUMASAA  :(
