@@ -18,4 +18,4 @@ os.system("pip install ipaddress")
 os.system("pip install uuid")
 os.system("git pull")
 #print(" SORRY TOOLS SEDANG DI PERBARUI / TUNGGU TERLEBIH DAHULU ADMIN INGIN MENGHAPUS / MERINGANKAN TOOLS :)")
-os.system("py LOLI.py
+os.system("py LOLI.py")
